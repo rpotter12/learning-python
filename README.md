@@ -1,5 +1,6 @@
 # learning-python
-- codes for learning python from basics to advanced
+- codes and theory for learning python from basics to advanced
+- theory is written in the python file in comments form
 
 # Contents
 ## section 1
