@@ -16,12 +16,12 @@
 - Python object and Data Structure
 
 ## section 2
-- ==
-- !=
-- >
-- <
-- >=
-- <=
+- `==`
+- `!=`
+- `>`
+- `<`
+- `>=`
+- `<=`
 - logical operators
 
 
