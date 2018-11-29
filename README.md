@@ -2,27 +2,24 @@
 - codes and theory for learning python from basics to advanced
 - theory is written in the python file in comments form
 
-# Contents
-## section 1
-- Numbers
-- Variable Assignments
-- String
-- List
-- Dictionaries
-- Tuples
-- Sets
-- Booleans
-- I/O with basic files in Python
-- Python object and Data Structure
+# Project Structure
 
-## section 2
-- `==`
-- `!=`
-- `>`
-- `<`
-- `>=`
-- `<=`
-- logical operators
+├── LICENSE
+├── README.md
+├── section1: python object and data structure basics
+│   ├── 1-numbers.py
+│   ├── 2-variable_names.py
+│   ├── 3-string.py
+│   ├── 4-list.py
+│   ├── 5-dictionaries.py
+│   ├── 6-tuples.py
+│   ├── 7-sets.py
+│   ├── 8-booleans.py
+│   ├── 9-inputOutput.py
+│   └── text.txt
+└── section2: python comparison operators
+    ├── 1-operators.py
+    └── 2-logicalOperator.py
 
 
 
