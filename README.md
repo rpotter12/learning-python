@@ -5,8 +5,6 @@
 # Project Structure
 ```console
 .
-├── LICENSE
-├── README.md
 ├── section1: python object and data structure basics
 │   ├── 1-numbers.py
 │   ├── 2-variable_names.py
@@ -18,9 +16,13 @@
 │   ├── 8-booleans.py
 │   ├── 9-inputOutput.py
 │   └── text.txt
-└── section2: python comparison operators
-    ├── 1-operators.py
-    └── 2-logicalOperator.py
+├── section2: python comparison operators
+│   ├── 1-operators.py
+│   └── 2-logicalOperator.py
+└── section3: python statements
+    ├── 1-ifElifElse.py
+    ├── 2-forLoops.py
+    └── 3-whileLoops.py
 ```
 
 
