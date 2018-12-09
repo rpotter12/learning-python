@@ -19,10 +19,19 @@
 ├── section2: python comparison operators
 │   ├── 1-operators.py
 │   └── 2-logicalOperator.py
-└── section3: python statements
-    ├── 1-ifElifElse.py
-    ├── 2-forLoops.py
-    └── 3-whileLoops.py
+├── section3: python statements
+│   ├── 1-ifElifElse.py
+│   ├── 2-forLoops.py
+│   └── 3-whileLoops.py
+├── section4: methods and functions
+│   ├── 1-functions.py
+│   ├── 2-arguments.py
+│   └── 3-lambdaexpressionsMapsAndFilter.py
+└── section5: OOP
+    ├── 1-introduction.py
+    ├── 2-attributeAndClass.py
+    ├── 3-ClassObjectAttribute.py
+    └── 4-inheritanceAndPolymorphism.py
 ```
 
 
